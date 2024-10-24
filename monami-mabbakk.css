@@ -1,0 +1,13 @@
+@import url(common.css);
+
+body {
+    background: lightgray;
+    border: 3px solid red;
+    font-size: 20px;
+    font-family: sans-serif, cursive;
+}
+
+header {
+    background: lightblue;
+    border: 3px solid orange;
+}
